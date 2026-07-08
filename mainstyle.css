@@ -1688,6 +1688,7 @@ padding: 20px;
 @media (max-width: 600px){
 	.readtext{
 		font-size: 1.05rem;
+		padding:20px;
 	}
 }
 .readtext a{
