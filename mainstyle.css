@@ -1664,9 +1664,9 @@ h3 {
 }
 
 .readtext p{
-	gap: 20px;
+	font-size:1.05rem;
 	padding: 20px;
-	text-align: justify;
+	
 
 	
 }
