@@ -1666,9 +1666,8 @@ h3 {
 	background-color: #ddeee7;
 
 	font-size: larger;
-
-	padding:20px;
-
+	
+padding: 20px;
 	
 }
 
@@ -1683,6 +1682,7 @@ h3 {
 	margin-inline-end: 0px;
 	unicode-bidi: isolate;
 	 */
+	 
 }
 
 @media (max-width: 600px){
