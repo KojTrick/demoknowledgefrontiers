@@ -610,11 +610,13 @@ a {
 	letter-spacing: 0.05em;
 }
 
+
 @media (max-width: 600px){
 	.objectives-grid h2{
 		font-size: 1.05rem;
 	}
 }
+
 /* ========================================
            ABOUT / STORY SECTION
         ======================================== */
@@ -1664,15 +1666,22 @@ h3 {
 	background-color: #ddeee7;
 
 	font-size: larger;
+	
 
 	
 }
 
 .readtext p{
-	
-	
-
-	
+/* 	
+	padding: 20px;
+	text-align: justify;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	unicode-bidi: isolate;
+	 */
 }
 
 @media (max-width: 600px){
@@ -1680,7 +1689,6 @@ h3 {
 		font-size: 1.05rem;
 	}
 }
-
 .readtext a{
 	max-width: 100%;
 	overflow-wrap: break-word;
