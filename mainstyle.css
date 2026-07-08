@@ -610,6 +610,11 @@ a {
 	letter-spacing: 0.05em;
 }
 
+@media (max-width: 600px){
+	.objectives-grid h2{
+		font-size: 1.05rem;
+	}
+}
 /* ========================================
            ABOUT / STORY SECTION
         ======================================== */
